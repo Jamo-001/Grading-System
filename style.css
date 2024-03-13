@@ -7,9 +7,9 @@
 .background{
     /* border: 1px solid black; */
     padding-top: 178px;
-    /* padding-bottom: 178px; */
+    padding-bottom: 178px;
     /* width: ; */
-    height: 607px;
+    /* height: 607px; */
     background-image: linear-gradient(to right, gold, white);
 }
 
@@ -86,13 +86,17 @@ h2{
     font-weight: 500;
 }
 
+audio{
+    /* display: none; */
+}
+
 @media screen and (max-width: 478px){
     .background{
         /* border: 1px solid black; */
         padding-top: 300px;
         padding-bottom: 178px;
         width: 100%;
-        height: 932px;
+        height: 803px;
         /* background-image: linear-gradient(to right, gold, white); */
     }
 
