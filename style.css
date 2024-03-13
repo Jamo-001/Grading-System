@@ -90,7 +90,7 @@ h2{
     .background{
         /* border: 1px solid black; */
         padding-top: 300px;
-        /* padding-bottom: 178px; */
+        padding-bottom: 178px;
         width: 100%;
         height: 932px;
         /* background-image: linear-gradient(to right, gold, white); */
@@ -100,7 +100,7 @@ h2{
         /* border: 1px solid red; */
         width: 300px;
         height: 250px;
-        margin: auto;
+        /* margin: auto; */
         text-align: center;
         background-color: gold;
         padding-top: 20px;
@@ -166,7 +166,7 @@ h2{
         cursor: default;
         padding: 10px;
         /* border: 1px solid black; */
-        width: 150px;
+        width: 170px;
         background-color: white;
         margin: auto;
         font-size: 17px;
